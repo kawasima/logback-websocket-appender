@@ -4,8 +4,6 @@ pom.xml.asc
 /lib/
 /classes/
 /target/
-/checkouts/
-.lein-deps-sum
-.lein-repl-history
-.lein-plugins/
-.lein-failures
+/.idea
+*.iml
+
